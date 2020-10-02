@@ -2,7 +2,7 @@
 
 ## Learning IOT Concepts:
 
-Consisting 3 Tasks:
+Consisting of total 3 Tasks:
 
 1. Explore IOT Applications
 2. Working with Sensors and nodeMCU
